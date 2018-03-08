@@ -1,0 +1,92 @@
+{
+  "quotes": [
+    {
+      "id": 10,
+      "zipcode": "68116",
+	"premium": 24.5,
+	"planName": "Plan A",
+	"planDescription":"Plan special AAAA",
+	"benefits": [
+		{"benefit1":""},
+		{"benefit2":""}
+	]
+
+    },
+    {
+      "id": 20,
+      "zipcode": "68116",
+	"premium": 33.5,
+	"planName": "Plan B",
+	"planDescription":"Plan special BBBB",
+	"benefits": [
+		{"benefit1":""},
+		{"benefit2":""}
+	]
+
+    },
+    {
+      "id": 30,
+      "zipcode": "68116",
+	"premium": 14.5,
+	"planName": "Plan F",
+	"planDescription":"Plan special FFFFF",
+	"benefits": [
+		{"benefit1":""},
+		{"benefit2":""}
+	]
+
+    },
+    {
+      "id": 35,
+      "zipcode": "68116",
+	"premium": 44.5,
+	"planName": "Plan D",
+	"planDescription":"Plan special DDDDD",
+	"benefits": [
+		{"benefit1":""},
+		{"benefit2":""}
+	]
+
+    },
+    {
+      "id": 45,
+      "zipcode": "68136",
+	"premium": 14.5,
+	"planName": "Plan A",
+	"planDescription":"Plan special AAAA",
+	"benefits": [
+		{"benefit1":""},
+		{"benefit2":""}
+	]
+
+    },
+    {
+	"id": 55,
+      "zipcode": "68136",
+	"premium": 34.5,
+	"planName": "Plan B",
+	"planDescription":"Plan special BBB",
+	"benefits": [
+		{"benefit1":""},
+		{"benefit2":""}
+	]
+
+    },
+{
+	"id": 65,
+      "zipcode": "68136",
+	"premium": 54.5,
+	"planName": "Plan C",
+	"planDescription":"Plan special CCC",
+	"benefits": [
+		{"benefit1":""},
+		{"benefit2":""}
+	]
+
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
+
